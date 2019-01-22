@@ -1,0 +1,9 @@
+e:\documents\visual studio 2015\Projects\Lesson_6_Fractal\Lesson_6_Fractal\bin\Debug\Lesson_6_Fractal.exe.config
+E:\Documents\Visual Studio 2015\Projects\Lesson_6_Fractal\Lesson_6_Fractal\obj\Debug\Lesson_6_Fractal.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2015\Projects\Lesson_6_Fractal\Lesson_6_Fractal\obj\Debug\Lesson_6_Fractal.Form1.resources
+E:\Documents\Visual Studio 2015\Projects\Lesson_6_Fractal\Lesson_6_Fractal\obj\Debug\Lesson_6_Fractal.Properties.Resources.resources
+E:\Documents\Visual Studio 2015\Projects\Lesson_6_Fractal\Lesson_6_Fractal\obj\Debug\Lesson_6_Fractal.csproj.GenerateResource.Cache
+E:\Documents\Visual Studio 2015\Projects\Lesson_6_Fractal\Lesson_6_Fractal\bin\Debug\Lesson_6_Fractal.exe
+E:\Documents\Visual Studio 2015\Projects\Lesson_6_Fractal\Lesson_6_Fractal\bin\Debug\Lesson_6_Fractal.pdb
+E:\Documents\Visual Studio 2015\Projects\Lesson_6_Fractal\Lesson_6_Fractal\obj\Debug\Lesson_6_Fractal.exe
+E:\Documents\Visual Studio 2015\Projects\Lesson_6_Fractal\Lesson_6_Fractal\obj\Debug\Lesson_6_Fractal.pdb
